@@ -1,0 +1,22 @@
+{
+  "name": "pdfjs-dist-zc",
+  "version": "2.4.0",
+  "description": "Custom ZC build of Mozilla's PDF.js library.",
+  "main": "build/pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywanguu/pdfjs-dist-zc.git"
+  },
+  "keywords": [
+    "Mozilla"
+  ],
+  "author": "pdf",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ywanguu/pdfjs-dist-zc/issues"
+  },
+  "homepage": "https://github.com/ywanguu/pdfjs-dist-zc#readme"
+}
